@@ -18,3 +18,11 @@
 .navbar-custom{
     background-color: coral;
 }
+img{
+    border-width: 30px;
+    margin: 100px;
+}
+.description{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
