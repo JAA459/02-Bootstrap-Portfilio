@@ -8,4 +8,4 @@ https://github.com/JAA459/02-Bootstrap-Portfilio
 https://jaa459.github.io/02-Bootstrap-Portfilio/index.html
 
 ###Screenshots
-![alt text](https://jaa459.github.io/02-Bootstrap-portilio/images/About-page.png)
+![alt text](https://jaa459.github.io/02-Bootstrap-Portfilio/Images/About-page.png)
