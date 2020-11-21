@@ -7,4 +7,5 @@ https://github.com/JAA459/02-Bootstrap-Portfilio
 ### Website
 https://jaa459.github.io/02-Bootstrap-Portfilio/index.html
 
-###Screenshots![alt text](https://jaa459.github.io/02-Bootstrap-portilio/images/About-page.png)
+###Screenshots
+![alt text](https://jaa459.github.io/02-Bootstrap-portilio/images/About-page.png)
